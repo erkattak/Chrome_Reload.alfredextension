@@ -1,6 +1,6 @@
 # Chrome Reload
 
-A simple [Alfred](http://alfredapp.com) extension to search for artists on the Rdio OS X app.
+A simple [Alfred](http://alfredapp.com) extension to reload Chrome's active tab.
 
 ## Usage
 
