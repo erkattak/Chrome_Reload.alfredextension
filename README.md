@@ -12,4 +12,4 @@ Once installed, activate Alfred and use keyword `rel` (or the keyword you chose)
 
 ### Hint: Add a global hotkey for this extension. I use `cmd+opt+r`
 
-### Follow me on Twitter for more [@brickattack](http://twitter.com/brickattack)
+[@brickattack](http://twitter.com/brickattack)
